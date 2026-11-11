@@ -1,7 +1,7 @@
 {
-  "latest": 41,
-  "name": "v41",
-  "apk": "https://drive.google.com/file/d/1yGaNygDDFSyv83JWV8LcL52WlWeR6uQ-/view",
-  "pc": "https://drive.google.com/file/d/1nZnLv5vZV1PAAUwPqrSmfNKVfcRbN50F/view",
-  "notes": "TEST notice: the update check works. You are already on the newest real version (v40) \u2014 nothing to install."
+  "latest": 42,
+  "name": "v42",
+  "apk": "https://drive.google.com/file/d/1qGtqWleI0eEOkzg9miSQydE-dlTmJJWO/view",
+  "pc": "https://drive.google.com/file/d/10kgYLAT1lEMqr1NVNp1ZYO8R629aJckc/view",
+  "notes": "TEST notice: checking the phone update prompt. You are already on the newest real version (v41) \u2014 nothing to install."
 }
