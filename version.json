@@ -1,7 +1,7 @@
 {
   "latest": 42,
   "name": "v42",
-  "apk": "https://drive.google.com/file/d/1qGtqWleI0eEOkzg9miSQydE-dlTmJJWO/view",
-  "pc": "https://drive.google.com/file/d/10kgYLAT1lEMqr1NVNp1ZYO8R629aJckc/view",
-  "notes": "TEST notice: checking the phone update prompt. You are already on the newest real version (v41) \u2014 nothing to install."
+  "apk": "https://drive.google.com/file/d/1j_j5vXmTuKwjcIY3Obi4pN9nKOkBOjFu/view",
+  "pc": "https://drive.google.com/file/d/1DCbCv0srYSY3bMqG_faXYJgQF18khdpg/view",
+  "notes": "New update popup design \u2014 navy glass card with real neon glow, on both PC and phone."
 }
