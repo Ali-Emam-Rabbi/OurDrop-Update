@@ -1,7 +1,1 @@
-{
-  "latest": 43,
-  "name": "v43",
-  "apk": "https://drive.google.com/file/d/15SZx5dDoIMmAOXF9xlBnbqLJMYVoXACi/view",
-  "pc": "https://drive.google.com/file/d/1IFyGMKGFQtZHZ24Ewi3P767V0uzLMKma/view",
-  "notes": "Performance update: the app now adapts its background animation to your device \u2014 smoother on low-end devices, same look. Plus less idle usage."
-}
+{"latest": 44, "name": "v44", "apk": "https://drive.google.com/file/d/1ctzltAqVW2_jaN1l55Wx6ZuGBNgAAc26/view?usp=drivesdk", "pc": "https://drive.google.com/file/d/15TdadyTzOxr1LLYtRfJ9Uh3yJR05xQK_/view?usp=drivesdk", "notes": "New About Us: developer profiles with real social links, Join Us on Telegram, and Our Projects \u2014 meet Zynox Download Manager."}
